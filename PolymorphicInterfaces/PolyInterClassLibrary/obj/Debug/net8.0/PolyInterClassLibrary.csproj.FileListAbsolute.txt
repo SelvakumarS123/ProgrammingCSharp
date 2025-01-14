@@ -1,0 +1,12 @@
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\bin\Debug\net8.0\PolyInterClassLibrary.deps.json
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\bin\Debug\net8.0\PolyInterClassLibrary.dll
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\bin\Debug\net8.0\PolyInterClassLibrary.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.AssemblyInfoInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.AssemblyInfo.cs
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.sourcelink.json
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.dll
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\refint\PolyInterClassLibrary.dll
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\PolyInterClassLibrary.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\PolymorphicInterfaces\PolyInterClassLibrary\obj\Debug\net8.0\ref\PolyInterClassLibrary.dll
