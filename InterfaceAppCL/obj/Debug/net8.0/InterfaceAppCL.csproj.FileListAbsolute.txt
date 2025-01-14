@@ -1,0 +1,11 @@
+E:\InterfaceAppCL\bin\Debug\net8.0\InterfaceAppCL.deps.json
+E:\InterfaceAppCL\bin\Debug\net8.0\InterfaceAppCL.dll
+E:\InterfaceAppCL\bin\Debug\net8.0\InterfaceAppCL.pdb
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.AssemblyInfoInputs.cache
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.AssemblyInfo.cs
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.csproj.CoreCompileInputs.cache
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.dll
+E:\InterfaceAppCL\obj\Debug\net8.0\refint\InterfaceAppCL.dll
+E:\InterfaceAppCL\obj\Debug\net8.0\InterfaceAppCL.pdb
+E:\InterfaceAppCL\obj\Debug\net8.0\ref\InterfaceAppCL.dll

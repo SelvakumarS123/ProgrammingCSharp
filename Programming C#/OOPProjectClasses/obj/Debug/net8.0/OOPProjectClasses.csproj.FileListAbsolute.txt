@@ -1,0 +1,11 @@
+E:\Programming C#\OOPProjectClasses\bin\Debug\net8.0\OOPProjectClasses.deps.json
+E:\Programming C#\OOPProjectClasses\bin\Debug\net8.0\OOPProjectClasses.dll
+E:\Programming C#\OOPProjectClasses\bin\Debug\net8.0\OOPProjectClasses.pdb
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.AssemblyInfoInputs.cache
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.AssemblyInfo.cs
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.csproj.CoreCompileInputs.cache
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.dll
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\refint\OOPProjectClasses.dll
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\OOPProjectClasses.pdb
+E:\Programming C#\OOPProjectClasses\obj\Debug\net8.0\ref\OOPProjectClasses.dll

@@ -1,0 +1,11 @@
+E:\QuizzApp\QuizzAppCL\bin\Debug\net8.0\QuizzAppCL.deps.json
+E:\QuizzApp\QuizzAppCL\bin\Debug\net8.0\QuizzAppCL.dll
+E:\QuizzApp\QuizzAppCL\bin\Debug\net8.0\QuizzAppCL.pdb
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.AssemblyInfoInputs.cache
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.AssemblyInfo.cs
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.csproj.CoreCompileInputs.cache
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.dll
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\refint\QuizzAppCL.dll
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\QuizzAppCL.pdb
+E:\QuizzApp\QuizzAppCL\obj\Debug\net8.0\ref\QuizzAppCL.dll

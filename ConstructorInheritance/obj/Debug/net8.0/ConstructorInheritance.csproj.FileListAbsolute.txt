@@ -1,0 +1,14 @@
+E:\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.exe
+E:\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.deps.json
+E:\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.runtimeconfig.json
+E:\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.dll
+E:\ConstructorInheritance\bin\Debug\net8.0\ConstructorInheritance.pdb
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.AssemblyInfoInputs.cache
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.AssemblyInfo.cs
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.csproj.CoreCompileInputs.cache
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.dll
+E:\ConstructorInheritance\obj\Debug\net8.0\refint\ConstructorInheritance.dll
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.pdb
+E:\ConstructorInheritance\obj\Debug\net8.0\ConstructorInheritance.genruntimeconfig.cache
+E:\ConstructorInheritance\obj\Debug\net8.0\ref\ConstructorInheritance.dll

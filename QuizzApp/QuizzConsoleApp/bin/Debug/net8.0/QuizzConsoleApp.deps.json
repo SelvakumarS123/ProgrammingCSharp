@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuizzConsoleApp/1.0.0": {
+        "dependencies": {
+          "QuizzAppCL": "1.0.0"
+        },
+        "runtime": {
+          "QuizzConsoleApp.dll": {}
+        }
+      },
+      "QuizzAppCL/1.0.0": {
+        "runtime": {
+          "QuizzAppCL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizzConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizzAppCL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
