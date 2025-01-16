@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DependencyInjectionCA/1.0.0": {
+        "dependencies": {
+          "DependencyInjectionClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DependencyInjectionCA.dll": {}
+        }
+      },
+      "DependencyInjectionClassLibrary/1.0.0": {
+        "runtime": {
+          "DependencyInjectionClassLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjectionCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInjectionClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -15,9 +15,10 @@ namespace PolyInterConsoleApp
             paymentService = new PaymentService(payPalProcesser); //code is the same, the only difference is the parameter passed to the PaymentService Costructor
             paymentService.ProcessOrderPayment(200.00m);
         }
-        
-        //here we have a single class -> PaymentService -> that accepts any type of paymentProcessor(credit or paypal etc), as long as they implement the same interface
-   
 
+        //here we have a single class -> PaymentService -> that accepts any type of paymentProcessor(credit or paypal etc), as long as they implement the same interface
+        //DeCoupling:
+        //->By decoupling, you can switch between CreditCardProcessor and PayPalProcessor without changing the PaymentService logic.
+        //->easily switch between the ProcessPayment mechanisms without changing the the PaymentService.
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolyInterConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe5de98d3456fd8f7fe291781b19396660b582d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ac3b1af599b9d6e0952985ecfcf5727eb3cb8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolyInterConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolyInterConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
