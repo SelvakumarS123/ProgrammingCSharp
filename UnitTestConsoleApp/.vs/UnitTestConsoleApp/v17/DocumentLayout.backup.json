@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|c:\\users\\selva\\documents\\programming_csharp\\unittestconsoleapp\\tests\\worldsdumbestfunctiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|solutionrelative:tests\\worldsdumbestfunctiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|c:\\users\\selva\\documents\\programming_csharp\\unittestconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|c:\\users\\selva\\documents\\programming_csharp\\unittestconsoleapp\\worldsdumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0660FA66-9B7B-450F-883C-29B2BFF8B937}|UnitTestConsoleApp.csproj|solutionrelative:worldsdumbestfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldsDumbestFunctionTest.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\Tests\\WorldsDumbestFunctionTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WorldsDumbestFunctionTest.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\Tests\\WorldsDumbestFunctionTest.cs",
+              "RelativeToolTip": "Tests\\WorldsDumbestFunctionTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:15:10.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorldsDumbestFunction.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\WorldsDumbestFunction.cs",
+              "RelativeDocumentMoniker": "WorldsDumbestFunction.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\WorldsDumbestFunction.cs",
+              "RelativeToolTip": "WorldsDumbestFunction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:11:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\UnitTestConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:10:07.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.exe
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.deps.json
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.runtimeconfig.json
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.dll
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\bin\Debug\net8.0\UnitTestConsoleApp.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.AssemblyInfo.cs
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.sourcelink.json
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.dll
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\refint\UnitTestConsoleApp.dll
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\UnitTestConsoleApp.genruntimeconfig.cache
+C:\Users\SELVA\Documents\Programming_CSharp\UnitTestConsoleApp\obj\Debug\net8.0\ref\UnitTestConsoleApp.dll
