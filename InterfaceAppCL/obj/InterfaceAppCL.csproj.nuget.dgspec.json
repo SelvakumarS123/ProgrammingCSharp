@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\InterfaceAppCL\\InterfaceAppCL.csproj": {}
+    "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\InterfaceAppCL\\InterfaceAppCL.csproj": {}
   },
   "projects": {
-    "E:\\InterfaceAppCL\\InterfaceAppCL.csproj": {
+    "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\InterfaceAppCL\\InterfaceAppCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\InterfaceAppCL\\InterfaceAppCL.csproj",
+        "projectUniqueName": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\InterfaceAppCL\\InterfaceAppCL.csproj",
         "projectName": "InterfaceAppCL",
-        "projectPath": "E:\\InterfaceAppCL\\InterfaceAppCL.csproj",
+        "projectPath": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\InterfaceAppCL\\InterfaceAppCL.csproj",
         "packagesPath": "C:\\Users\\SELVA\\.nuget\\packages\\",
-        "outputPath": "E:\\InterfaceAppCL\\obj\\",
+        "outputPath": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\InterfaceAppCL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

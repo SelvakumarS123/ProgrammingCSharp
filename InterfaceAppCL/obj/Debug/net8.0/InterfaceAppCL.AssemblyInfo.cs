@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceAppCL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aac7ddb1116cf24ff5e8959782848bef0291155")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceAppCL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceAppCL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

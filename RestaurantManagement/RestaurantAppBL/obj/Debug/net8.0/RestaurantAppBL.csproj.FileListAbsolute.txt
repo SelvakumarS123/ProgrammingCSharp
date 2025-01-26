@@ -1,0 +1,12 @@
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\bin\Debug\net8.0\RestaurantAppBL.deps.json
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\bin\Debug\net8.0\RestaurantAppBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\bin\Debug\net8.0\RestaurantAppBL.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.AssemblyInfoInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.AssemblyInfo.cs
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.csproj.CoreCompileInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.sourcelink.json
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\refint\RestaurantAppBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\RestaurantAppBL.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\RestaurantManagement\RestaurantAppBL\obj\Debug\net8.0\ref\RestaurantAppBL.dll
