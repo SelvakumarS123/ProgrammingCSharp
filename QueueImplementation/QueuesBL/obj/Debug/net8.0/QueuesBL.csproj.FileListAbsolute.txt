@@ -1,0 +1,12 @@
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\bin\Debug\net8.0\QueuesBL.deps.json
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\bin\Debug\net8.0\QueuesBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\bin\Debug\net8.0\QueuesBL.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.AssemblyInfoInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.AssemblyInfo.cs
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.csproj.CoreCompileInputs.cache
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.sourcelink.json
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\refint\QueuesBL.dll
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\QueuesBL.pdb
+C:\Users\SELVA\Documents\Programming_CSharp\QueueImplementation\QueuesBL\obj\Debug\net8.0\ref\QueuesBL.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89281E87-1002-4A9A-BDD5-341C9657B7D4}|QueuesPL\\QueuesPL.csproj|c:\\users\\selva\\documents\\programming_csharp\\queueimplementation\\queuespl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89281E87-1002-4A9A-BDD5-341C9657B7D4}|QueuesPL\\QueuesPL.csproj|solutionrelative:queuespl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|c:\\users\\selva\\documents\\programming_csharp\\queueimplementation\\queuesbl\\queueds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|solutionrelative:queuesbl\\queueds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|c:\\users\\selva\\documents\\programming_csharp\\queueimplementation\\queuesbl\\queueops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|solutionrelative:queuesbl\\queueops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|c:\\users\\selva\\documents\\programming_csharp\\queueimplementation\\queuesbl\\frontmiddleback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4209EDD-D8AA-4A28-989A-C1182BC404B6}|QueuesBL\\QueuesBL.csproj|solutionrelative:queuesbl\\frontmiddleback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueDS.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\QueueDS.cs",
+              "RelativeDocumentMoniker": "QueuesBL\\QueueDS.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\QueueDS.cs",
+              "RelativeToolTip": "QueuesBL\\QueueDS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:17:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueOps.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\QueueOps.cs",
+              "RelativeDocumentMoniker": "QueuesBL\\QueueOps.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\QueueOps.cs",
+              "RelativeToolTip": "QueuesBL\\QueueOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:11:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesPL\\Program.cs",
+              "RelativeDocumentMoniker": "QueuesPL\\Program.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesPL\\Program.cs",
+              "RelativeToolTip": "QueuesPL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:59:28.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrontMiddleBack.cs",
+              "DocumentMoniker": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\FrontMiddleBack.cs",
+              "RelativeDocumentMoniker": "QueuesBL\\FrontMiddleBack.cs",
+              "ToolTip": "C:\\Users\\SELVA\\Documents\\Programming_CSharp\\QueueImplementation\\QueuesBL\\FrontMiddleBack.cs",
+              "RelativeToolTip": "QueuesBL\\FrontMiddleBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:58:51.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
